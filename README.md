@@ -2,7 +2,7 @@
 ### Данный репозиторий содержит учебные работы выполненные в процессе изучения предмета “Программная инженерия” в УрГЭУ.
 
 
-## [Тема 1. Работа с репозиториями](https://github.com/golonr1na/Software_Engineering_python/blob/Tema_1/Tema_1.md)
+## [Тема 1. Работа с репозиториями](https://github.com/snaklz/Software-engineering/blob/main/%D0%A2%D0%B5%D0%BC%D0%B0_1.md)
 1.1. Установка
 
 1.2. Настройка
