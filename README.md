@@ -33,7 +33,7 @@
 
 1.15. Настройка .gitignore
 
-## [Тема 2. Базовые операции языка Python]()
+## [Тема 2. Базовые операции языка Python](https://github.com/snaklz/Software-engineering/blob/main/lab2)
 
 2.1. Комментарии на Python
 
